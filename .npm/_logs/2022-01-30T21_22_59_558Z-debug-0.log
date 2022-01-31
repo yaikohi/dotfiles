@@ -1,0 +1,63 @@
+0 verbose cli [
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/node',
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/npm',
+0 verbose cli   'uninstall',
+0 verbose cli   'obsidian-cli'
+0 verbose cli ]
+1 info using npm@8.3.1
+2 info using node@v17.4.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 2ms
+10 timing config:load:file:/home/ykhi/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 1ms
+16 timing config:load:setEnvs Completed in 0ms
+17 timing config:load Completed in 7ms
+18 timing npm:load:configload Completed in 8ms
+19 timing npm:load:setTitle Completed in 0ms
+20 timing config:load:flatten Completed in 1ms
+21 timing npm:load:display Completed in 3ms
+22 verbose logfile /home/ykhi/.npm/_logs/2022-01-30T21_22_59_558Z-debug-0.log
+23 timing npm:load:logFile Completed in 3ms
+24 timing npm:load:timers Completed in 0ms
+25 timing npm:load:configScope Completed in 0ms
+26 timing npm:load Completed in 15ms
+27 timing arborist:ctor Completed in 1ms
+28 silly logfile start cleaning logs, removing 1 files
+29 timing arborist:ctor Completed in 0ms
+30 timing idealTree:init Completed in 10ms
+31 timing idealTree:userRequests Completed in 0ms
+32 silly idealTree buildDeps
+33 timing idealTree:#root Completed in 0ms
+34 timing idealTree:buildDeps Completed in 0ms
+35 timing idealTree:fixDepFlags Completed in 0ms
+36 timing idealTree Completed in 12ms
+37 timing reify:loadTrees Completed in 13ms
+38 timing reify:diffTrees Completed in 0ms
+39 silly reify moves {}
+40 timing reify:retireShallow Completed in 1ms
+41 timing reify:createSparse Completed in 0ms
+42 timing reify:loadBundles Completed in 0ms
+43 silly audit report null
+44 timing reify:audit Completed in 1ms
+45 timing reify:unpack Completed in 1ms
+46 timing reify:unretire Completed in 0ms
+47 timing build:queue Completed in 0ms
+48 timing build:deps Completed in 0ms
+49 timing build Completed in 0ms
+50 timing reify:build Completed in 1ms
+51 timing reify:trash Completed in 0ms
+52 timing reify:save Completed in 2ms
+53 timing reify Completed in 29ms
+54 timing command:uninstall Completed in 32ms
+55 verbose exit 0
+56 timing npm Completed in 216ms
+57 info ok

@@ -1,0 +1,44 @@
+[2022-01-14 00:07:54.754] [sharedprocess] [info] Installing extension: avetis.nord-palette
+[2022-01-14 00:07:56.018] [sharedprocess] [info] Downloaded extension: avetis.nord-palette /home/ykhi/.config/Code/CachedExtensionVSIXs/avetis.nord-palette-0.1.0
+[2022-01-14 00:07:56.061] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.cf3a7ac8-33ed-45b9-b969-3ad57d95ce35: avetis.nord-palette
+[2022-01-14 00:07:56.067] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/avetis.nord-palette-0.1.0
+[2022-01-14 00:07:56.069] [sharedprocess] [info] Extracting completed. avetis.nord-palette
+[2022-01-14 00:07:56.071] [sharedprocess] [info] Extension installed successfully: avetis.nord-palette
+[2022-01-14 00:09:14.790] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-01-14 00:09:15.850] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/ykhi/.config/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.10.2
+[2022-01-14 00:09:15.877] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.80717f28-6795-4b60-a5ad-a866bad26008: ecmel.vscode-html-css
+[2022-01-14 00:09:15.882] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/ecmel.vscode-html-css-1.10.2
+[2022-01-14 00:09:15.884] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-01-14 00:09:15.886] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2022-01-14 00:09:22.692] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2022-01-14 00:09:23.879] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/ykhi/.config/Code/CachedExtensionVSIXs/rust-lang.rust-0.7.8
+[2022-01-14 00:09:24.077] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.80fce66c-da8d-455f-afd4-5bc69c017b46: rust-lang.rust
+[2022-01-14 00:09:24.084] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/rust-lang.rust-0.7.8
+[2022-01-14 00:09:24.086] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2022-01-14 00:09:24.087] [sharedprocess] [info] Extension installed successfully: rust-lang.rust
+[2022-01-14 00:09:26.073] [sharedprocess] [info] Uninstalling extension: rust-lang.rust
+[2022-01-14 00:09:26.366] [sharedprocess] [info] Successfully uninstalled extension: rust-lang.rust
+[2022-01-14 00:10:08.984] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2022-01-14 00:10:10.195] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/ykhi/.config/Code/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.853
+[2022-01-14 00:10:10.270] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.a9c0bcd1-130e-497b-8b63-fb00ef557f13: matklad.rust-analyzer
+[2022-01-14 00:10:10.276] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/matklad.rust-analyzer-0.2.853
+[2022-01-14 00:10:10.279] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2022-01-14 00:10:10.281] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer
+[2022-01-14 00:10:19.050] [sharedprocess] [info] Installing extension: dustypomerleau.rust-syntax
+[2022-01-14 00:10:20.368] [sharedprocess] [info] Downloaded extension: dustypomerleau.rust-syntax /home/ykhi/.config/Code/CachedExtensionVSIXs/dustypomerleau.rust-syntax-0.6.0
+[2022-01-14 00:10:20.408] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.0d08ceaa-cc3b-4d82-9f06-3866c69479de: dustypomerleau.rust-syntax
+[2022-01-14 00:10:20.411] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/dustypomerleau.rust-syntax-0.6.0
+[2022-01-14 00:10:20.412] [sharedprocess] [info] Extracting completed. dustypomerleau.rust-syntax
+[2022-01-14 00:10:20.413] [sharedprocess] [info] Extension installed successfully: dustypomerleau.rust-syntax
+[2022-01-14 00:11:07.383] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2022-01-14 00:11:08.477] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/ykhi/.config/Code/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.7.5
+[2022-01-14 00:11:08.534] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.b8b88e5e-7e27-4953-b64f-56a2b7092fe0: bradlc.vscode-tailwindcss
+[2022-01-14 00:11:08.545] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.5
+[2022-01-14 00:11:08.548] [sharedprocess] [info] Extracting completed. bradlc.vscode-tailwindcss
+[2022-01-14 00:11:08.549] [sharedprocess] [info] Extension installed successfully: bradlc.vscode-tailwindcss
+[2022-01-14 00:11:18.805] [sharedprocess] [info] Installing extension: bourhaouta.tailwindshades
+[2022-01-14 00:11:19.875] [sharedprocess] [info] Downloaded extension: bourhaouta.tailwindshades /home/ykhi/.config/Code/CachedExtensionVSIXs/bourhaouta.tailwindshades-0.0.5
+[2022-01-14 00:11:20.030] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.fca54a3d-8cf7-45c0-9a7a-39d10c2ab095: bourhaouta.tailwindshades
+[2022-01-14 00:11:20.041] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/bourhaouta.tailwindshades-0.0.5
+[2022-01-14 00:11:20.044] [sharedprocess] [info] Extracting completed. bourhaouta.tailwindshades
+[2022-01-14 00:11:20.045] [sharedprocess] [info] Extension installed successfully: bourhaouta.tailwindshades

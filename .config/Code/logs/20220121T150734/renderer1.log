@@ -1,0 +1,4 @@
+[2022-01-21 15:07:36.637] [renderer1] [error] [Extension Host] (node:22257) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-21 16:10:49.055] [renderer1] [info] Setting search error: XHR failed
+[2022-01-21 16:10:49.145] [renderer1] [info] Setting search error: XHR failed

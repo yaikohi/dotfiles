@@ -1,0 +1,15 @@
+Found Tailwind CSS config file: /home/ykhi/projects/noodleX/tailwind.config.cjs
+Loaded postcss v8.4.5: /home/ykhi/projects/noodleX/node_modules/postcss
+Loaded tailwindcss v3.0.15: /home/ykhi/projects/noodleX/node_modules/tailwindcss
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.
+short circuit
+[Error - 3:06:40 PM] Tailwind CSS: No config file found.
+Error
+    at new y (/home/ykhi/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.6/dist/server/tailwindServer.js:56:291783)
+    at /home/ykhi/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.6/dist/server/tailwindServer.js:56:367059
+    at Generator.next (<anonymous>)
+    at s (/home/ykhi/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.6/dist/server/tailwindServer.js:56:355491)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

@@ -1,0 +1,15 @@
+[2022-01-21 14:35:25.646] [sharedprocess] [info] Starting worker process with pid 17204 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-21 14:35:27.818] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2022-01-21 14:35:29.551] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/ykhi/.config/Code/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.7.6
+[2022-01-21 14:35:29.595] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.30481437-c788-4e6f-91aa-c06e98459654: bradlc.vscode-tailwindcss
+[2022-01-21 14:35:29.599] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.6
+[2022-01-21 14:35:29.603] [sharedprocess] [info] Extracting completed. bradlc.vscode-tailwindcss
+[2022-01-21 14:35:29.608] [sharedprocess] [info] Extension installed successfully: bradlc.vscode-tailwindcss
+[2022-01-21 14:36:16.472] [sharedprocess] [info] Installing extension: svelte.svelte-vscode
+[2022-01-21 14:36:25.759] [sharedprocess] [info] Downloaded extension: svelte.svelte-vscode /home/ykhi/.config/Code/CachedExtensionVSIXs/svelte.svelte-vscode-105.10.0
+[2022-01-21 14:36:27.997] [sharedprocess] [info] Extracted extension to /home/ykhi/.vscode/extensions/.416970a1-a297-4cfc-bbb0-e8ebc38c2e66: svelte.svelte-vscode
+[2022-01-21 14:36:28.003] [sharedprocess] [info] Renamed to /home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0
+[2022-01-21 14:36:28.005] [sharedprocess] [info] Extracting completed. svelte.svelte-vscode
+[2022-01-21 14:36:28.008] [sharedprocess] [info] Extension installed successfully: svelte.svelte-vscode
+[2022-01-21 14:36:36.662] [sharedprocess] [info] Worker process with pid 17204 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-21 14:36:37.795] [sharedprocess] [info] Starting worker process with pid 17531 (type: watcherServiceParcelSharedProcess, window: 1).

@@ -1,0 +1,180 @@
+Initialize language server at  file:///home/ykhi/projects/noodlecount
+Initialize new ts service at  /home/ykhi/projects/noodlecount/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodlecount
+Loaded config at  /home/ykhi/projects/noodlecount/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 27
+Svelte files: 14
+From node_modules: 0
+Total: 27
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 14
+From node_modules: 198
+Total: 227
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/login/index.svelte.injected.ts[0m:[93m10[0m:[93m27[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m10[0m    signIn(email, password });
+[7m  [0m [91m                          ~[0m
+[96msrc/routes/login/index.svelte.injected.ts[0m:[93m10[0m:[93m28[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m10[0m    signIn(email, password });
+[7m  [0m [91m                           ~[0m
+[96msrc/routes/login/index.svelte.injected.ts[0m:[93m11[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'try' expected.
+
+[7m11[0m   } catch (err) {
+[7m  [0m [91m    ~~~~~[0m
+[96msrc/routes/login/index.svelte.injected.ts[0m:[93m16[0m:[93m2[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m16[0m  }
+[7m  [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+TypeError: Cannot read property 'getProjectVersion' of undefined
+    at synchronizeHostData (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/typescript/lib/typescript.js:160387:22)
+    at Object.getSyntacticDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/typescript/lib/typescript.js:160624:13)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:50:21)
+    at async PluginHost.tryExecutePlugin (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:258:20)
+    at async Promise.all (index 2)
+    at async PluginHost.getDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:45:38)
+    at async DiagnosticsManager.update (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:16:29)
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 205
+Total: 235
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 28
+Svelte files: 15
+From node_modules: 206
+Total: 236
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler

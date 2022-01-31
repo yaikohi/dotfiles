@@ -1,0 +1,270 @@
+Initialize language server at  file:///home/ykhi/projects/noodlecount
+Initialize new ts service at  /home/ykhi/projects/noodlecount/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodlecount
+Loaded config at  /home/ykhi/projects/noodlecount/svelte.config.mjs
+SnapshotManager File Statistics:
+Project files: 25
+Svelte files: 15
+From node_modules: 0
+Total: 25
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m3[0m:[93m6[0m - [91merror[0m[90m TS1005: [0m'=' expected.
+
+[7m3[0m  let email: string;
+[7m [0m [91m     ~~~~~[0m
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m3[0m:[93m11[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m3[0m  let email: string;
+[7m [0m [91m          ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m7[0m:[93m50[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m7[0m   const { error } = await signUp(email, password });
+[7m [0m [91m                                                 ~[0m
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m7[0m:[93m51[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m7[0m   const { error } = await signUp(email, password });
+[7m [0m [91m                                                  ~[0m
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m9[0m:[93m2[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m9[0m  }
+[7m [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 25
+Svelte files: 15
+From node_modules: 205
+Total: 231
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m8[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m8[0m   await signUp(email, password);
+[7m [0m [91m  ~~~~~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m11[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m11[0m const $$$$$$$$ = null;
+[7m  [0m [91m~~~~~[0m
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m13[0m:[93m46[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m13[0m const $$vars$$ = [email,password,userSignUp];
+[7m  [0m [91m                                             [0m
+
+  [96msrc/routes/signup/index.svelte.injected.ts[0m:[93m6[0m:[93m30[0m
+    [7m6[0m  async function userSignUp() {
+    [7m [0m [96m                             ~[0m
+    The parser expected to find a '}' to match the '{' token here.
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m10[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m10[0m  }
+[7m  [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+SyntaxError: 'finally' expected. (10:2)
+   8 | 			await signUp(email, password);
+   9 | 		}
+> 10 | 	}
+     | 	^
+  11 |
+    at r (/home/ykhi/projects/noodlecount/node_modules/prettier/parser-typescript.js:1:557)
+    at yx (/home/ykhi/projects/noodlecount/node_modules/prettier/parser-typescript.js:13:3304376)
+    at Object.parse (/home/ykhi/projects/noodlecount/node_modules/prettier/parser-typescript.js:13:3304817)
+    at Object.parse$d [as parse] (/home/ykhi/projects/noodlecount/node_modules/prettier/index.js:12975:19)
+    at textToDoc (/home/ykhi/projects/noodlecount/node_modules/prettier/index.js:14088:27)
+    at /home/ykhi/projects/noodlecount/node_modules/prettier/index.js:14074:95
+    at formatBodyContent (/home/ykhi/projects/noodlecount/node_modules/prettier-plugin-svelte/plugin.js:1834:22)
+    at /home/ykhi/projects/noodlecount/node_modules/prettier-plugin-svelte/plugin.js:1779:107
+    at embedTag (/home/ykhi/projects/noodlecount/node_modules/prettier-plugin-svelte/plugin.js:1875:15)
+    at embedType (/home/ykhi/projects/noodlecount/node_modules/prettier-plugin-svelte/plugin.js:1779:52) {
+  loc: { start: { line: 10, column: 2 } },
+  codeFrame: '   8 | \t\t\tawait signUp(email, password);\n' +
+    '   9 | \t\t}\n' +
+    '> 10 | \t}\n' +
+    '     | \t^\n' +
+    '  11 |'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m10[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m10[0m  }
+[7m  [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m10[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m'finally' expected.
+
+[7m10[0m  }
+[7m  [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+[96msrc/routes/signup/index.svelte.injected.ts[0m:[93m10[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m'{' expected.
+
+[7m10[0m  }
+[7m  [0m [91m ~[0m
+
+Preprocessing failed
+Error: [svelte-preprocess] Encountered type error
+    at throwError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:5:11)
+    at throwTypescriptError (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/modules/errors.js:9:28)
+    at transpileTs (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:178:47)
+    at mixedImportsTranspiler (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:233:60)
+    at transformer (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/transformers/typescript.js:303:11)
+    at transform (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:37:12)
+    at async /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:118:29
+    at async Object.script (/home/ykhi/projects/noodlecount/node_modules/svelte-preprocess/dist/autoProcess.js:148:33)
+    at async wrappedPreprocessor.script (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:278:28)
+    at async process_single_tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:32112:28) {
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+SnapshotManager File Statistics:
+Project files: 25
+Svelte files: 15
+From node_modules: 205
+Total: 231
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler

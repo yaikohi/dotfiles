@@ -1,0 +1,20 @@
+[2022-01-21 14:35:24.558] [renderer1] [error] [Extension Host] (node:17151) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-21 14:36:38.223] [renderer1] [error] [Extension Host] (node:17523) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-21 14:56:07.027] [renderer1] [error] Error: Unable to read file '/home/ykhi/projects/noodleX/src/routes/login/index.svelte' (Error: Unable to resolve nonexistent file '/home/ykhi/projects/noodleX/src/routes/login/index.svelte')
+    at Ei.doReadFileStream (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:34849)
+    at async u.doRead (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42314)
+    at async u.readStream (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:42035)
+    at async sn.resolveFromFile (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2358:73209)
+    at async o.doResolve (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:36878)
+    at async i.acquire (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:32322)
+    at async g.createModelReference (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2358:85753)
+    at async Promise.all (index 0)
+    at async n._createEditsTasks (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:876:10243)
+    at async n.apply (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:876:10419)
+    at async o._performTextEdits (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28841)
+    at async o.perform (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28299)
+    at async r.apply (vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:30428)
+[2022-01-21 14:56:07.028] [renderer1] [warning] IGNORING workspace edit {"fileOperationResult":1,"options":{"acceptTextOnly":true,"limits":{"size":17179869184,"memory":1468006400}}}
+[2022-01-21 15:06:44.906] [renderer1] [error] Failed to execute git

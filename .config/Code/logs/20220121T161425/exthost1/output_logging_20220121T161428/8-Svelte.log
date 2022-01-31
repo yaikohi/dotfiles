@@ -1,0 +1,28 @@
+Initialize language server at  file:///home/ykhi/projects/noodlecount
+Initialize new ts service at  /home/ykhi/projects/noodlecount/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodlecount
+(node:32480) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `code --trace-warnings ...` to show where the warning was created)
+Error while loading config at  /home/ykhi/projects/noodlecount/svelte.config.cjs
+/home/ykhi/projects/noodlecount/svelte.config.cjs:1
+import adapter from '@sveltejs/adapter-auto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at wrapSafe (internal/modules/cjs/loader.js:1033:16)
+    at Module._compile (internal/modules/cjs/loader.js:1081:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+    at Module.load (internal/modules/cjs/loader.js:982:32)
+    at Module._load (internal/modules/cjs/loader.js:823:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at ModuleWrap.<anonymous> (internal/modules/esm/translators.js:199:29)
+    at ModuleJob.run (internal/modules/esm/module_job.js:152:23)
+    at async Loader.import (internal/modules/esm/loader.js:166:24)
+    at async ConfigLoader.loadConfig (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/lib/documents/configLoader.js:126:26)
+Found svelte.config.js but there was an error loading it. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.10.1 from /home/ykhi/projects/noodlecount/node_modules/svelte-preprocess
+SnapshotManager File Statistics:
+Project files: 25
+Svelte files: 15
+From node_modules: 0
+Total: 25

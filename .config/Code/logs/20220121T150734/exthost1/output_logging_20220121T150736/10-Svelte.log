@@ -1,0 +1,102 @@
+Initialize language server at  file:///home/ykhi/projects/noodlecount
+Initialize new ts service at  /home/ykhi/projects/noodlecount/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodlecount
+Loaded config at  /home/ykhi/projects/noodlecount/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 29
+Svelte files: 15
+From node_modules: 0
+Total: 29
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 29
+Svelte files: 15
+From node_modules: 198
+Total: 227
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+CompileError [ParseError]: Unexpected token
+    at error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.acorn_error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17815:15)
+    at read_expression (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:8837:17)
+    at read_sequence (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17152:33)
+    at read_attribute_value (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17106:18)
+    at read_attribute (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:16997:18)
+    at tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:16852:26)
+    at new Parser$1 (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17912:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 79, character: 345 },
+  end: { line: 11, column: 79, character: 345 },
+  pos: 345,
+  filename: '/home/ykhi/projects/noodlecount/src/routes/index.svelte',
+  frame: ' 9:       type="text"\n' +
+    '10:     />\n' +
+    '11:     <button class="p-2 mb-4 mt-2 rounded-xl bg-indigo-500 text-white " on:click={}\n' +
+    '                                                                                     ^\n' +
+    '12:       >Add noodle</button\n' +
+    '13:     >',
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Preprocessing failed
+CompileError [ParseError]: Unexpected token
+    at error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.acorn_error (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17815:15)
+    at read_expression (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:8837:17)
+    at read_sequence (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17152:33)
+    at read_attribute_value (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17106:18)
+    at read_attribute (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:16997:18)
+    at tag (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:16852:26)
+    at new Parser$1 (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/ykhi/projects/noodlecount/node_modules/svelte/compiler.js:17912:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 79, character: 345 },
+  end: { line: 11, column: 79, character: 345 },
+  pos: 345,
+  filename: '/home/ykhi/projects/noodlecount/src/routes/index.svelte',
+  frame: ' 9:       type="text"\n' +
+    '10:     />\n' +
+    '11:     <button class="p-2 mb-4 mt-2 rounded-xl bg-indigo-500 text-white " on:click={}\n' +
+    '                                                                                     ^\n' +
+    '12:       >Add noodle</button\n' +
+    '13:     >',
+  __source: 'Script'
+}
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier

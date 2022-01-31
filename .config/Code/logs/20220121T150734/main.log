@@ -1,0 +1,9 @@
+[2022-01-21 15:07:34.902] [main] [info] update#setState idle
+[2022-01-21 15:07:35.017] [main] [info] ExtensionHostStarterWorker created
+[2022-01-21 15:07:36.343] [main] [info] Starting extension host with pid 22257 (fork() took 12 ms).
+[2022-01-21 15:08:04.910] [main] [info] update#setState checking for updates
+[2022-01-21 15:08:04.914] [main] [info] update#setState idle
+[2022-01-21 16:08:17.932] [main] [info] update#setState checking for updates
+[2022-01-21 16:08:17.936] [main] [info] update#setState idle
+[2022-01-21 16:14:23.232] [main] [info] Waiting for extension host with pid 22257 to exit.
+[2022-01-21 16:14:23.285] [main] [info] Extension host with pid 22257 exited with code: 0, signal: null.

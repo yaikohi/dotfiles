@@ -1,0 +1,98 @@
+[2022-01-14 00:07:03.959] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-01-14 00:07:03.959] [settingssync] [info] Auto Sync is disabled.
+[2022-01-14 00:08:44.185] [settingssync] [info] Did reset the local sync state.
+[2022-01-14 00:08:46.017] [settingssync] [info] Settings: Updated remote settings
+[2022-01-14 00:08:46.028] [settingssync] [info] Settings: Updated last synchronized settings
+[2022-01-14 00:08:46.029] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:08:46.034] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2022-01-14 00:08:46.035] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:08:46.038] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2022-01-14 00:08:46.635] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-01-14 00:08:46.648] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-01-14 00:08:46.843] [settingssync] [info] Extensions: Updated remote extensions. Added: ["vscode.bat","vscode.clojure","vscode.coffeescript","vscode.configuration-editing","vscode.cpp","vscode.csharp","vscode.css","vscode.css-language-features","vscode.dart","vscode.debug-auto-launch","vscode.debug-server-ready","vscode.diff","vscode.docker","vscode.emmet","vscode.extension-editing","vscode.fsharp","vscode.git","vscode.git-base","vscode.github","vscode.github-authentication","vscode.go","vscode.groovy","vscode.grunt","vscode.gulp","vscode.handlebars","vscode.hlsl","vscode.html","vscode.html-language-features","vscode.image-preview","vscode.ini","vscode.ipynb","vscode.jake","vscode.java","vscode.javascript","vscode.json","vscode.json-language-features","vscode.julia","vscode.less","vscode.log","vscode.lua","vscode.make","vscode.markdown","vscode.markdown-language-features","vscode.markdown-math","vscode.merge-conflict","vscode.microsoft-authentication","ms-vscode.js-debug","ms-vscode.js-debug-companion","ms-vscode.references-view","ms-vscode.vscode-js-profile-table","vscode.npm","vscode.objective-c","vscode.perl","vscode.php","vscode.php-language-features","vscode.powershell","vscode.pug","vscode.python","vscode.r","vscode.razor","vscode.ruby","vscode.rust","vscode.scss","vscode.search-result","vscode.shaderlab","vscode.shellscript","vscode.simple-browser","vscode.sql","vscode.swift","vscode.theme-abyss","vscode.theme-defaults","vscode.theme-kimbie-dark","vscode.theme-monokai","vscode.theme-monokai-dimmed","vscode.theme-quietlight","vscode.theme-red","vscode.vscode-theme-seti","vscode.theme-solarized-dark","vscode.theme-solarized-light","vscode.theme-tomorrow-night-blue","vscode.typescript","vscode.typescript-language-features","vscode.vb","vscode.xml","vscode.yaml","avetis.nord-palette"].
+[2022-01-14 00:08:46.850] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:08:46.873] [settingssync] [info] Auto Sync: Started
+[2022-01-14 00:08:46.873] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-01-14 00:08:47.086] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:08:47.090] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:08:47.095] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:08:47.120] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:08:47.209] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:08:47.215] [settingssync] [info] Sync done. Took 139ms
+[2022-01-14 00:08:49.491] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:08:49.609] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:08:49.614] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:08:49.617] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:08:50.350] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-01-14 00:08:50.362] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-01-14 00:08:50.462] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:08:50.469] [settingssync] [info] Sync done. Took 864ms
+[2022-01-14 00:09:09.336] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:09:09.401] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:09:09.408] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:09:09.412] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:09:10.145] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-01-14 00:09:10.156] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-01-14 00:09:10.243] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:09:10.244] [settingssync] [info] Sync done. Took 851ms
+[2022-01-14 00:09:18.520] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:09:18.575] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:09:18.579] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:09:18.584] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:09:18.595] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:09:18.788] [settingssync] [info] Extensions: Updated remote extensions. Added: ["ecmel.vscode-html-css"].
+[2022-01-14 00:09:18.793] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:09:18.796] [settingssync] [info] Sync done. Took 230ms
+[2022-01-14 00:09:26.714] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:09:26.763] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:09:26.766] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:09:26.769] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:09:26.776] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:09:26.831] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:09:26.832] [settingssync] [info] Sync done. Took 74ms
+[2022-01-14 00:10:07.324] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:10:07.456] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:10:07.461] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:10:07.463] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:10:07.484] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:10:07.542] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:10:07.544] [settingssync] [info] Sync done. Took 92ms
+[2022-01-14 00:10:12.901] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:10:13.071] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:10:13.075] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:10:13.078] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:10:13.086] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:10:13.678] [settingssync] [info] Extensions: Updated remote extensions. Added: ["matklad.rust-analyzer"].
+[2022-01-14 00:10:13.683] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:10:13.684] [settingssync] [info] Sync done. Took 622ms
+[2022-01-14 00:10:23.046] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:10:23.099] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:10:23.102] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:10:23.104] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:10:23.113] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:10:23.498] [settingssync] [info] Extensions: Updated remote extensions. Added: ["dustypomerleau.rust-syntax"].
+[2022-01-14 00:10:23.502] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:10:23.504] [settingssync] [info] Sync done. Took 412ms
+[2022-01-14 00:11:11.182] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:11:11.240] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:11:11.245] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:11:11.249] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:11:11.256] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:11:11.642] [settingssync] [info] Extensions: Updated remote extensions. Added: ["bradlc.vscode-tailwindcss"].
+[2022-01-14 00:11:11.648] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:11:11.650] [settingssync] [info] Sync done. Took 420ms
+[2022-01-14 00:11:22.677] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:11:22.727] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:11:22.729] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:11:22.731] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:11:22.735] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:11:22.877] [settingssync] [info] Extensions: Updated remote extensions. Added: ["bourhaouta.tailwindshades"].
+[2022-01-14 00:11:22.880] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-01-14 00:11:22.882] [settingssync] [info] Sync done. Took 164ms
+[2022-01-14 00:11:34.131] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-01-14 00:11:34.267] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-01-14 00:11:34.269] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-01-14 00:11:34.271] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-01-14 00:11:34.280] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-01-14 00:11:34.323] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-01-14 00:11:34.324] [settingssync] [info] Sync done. Took 60ms

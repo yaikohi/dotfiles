@@ -1,0 +1,13 @@
+Initialize language server at  file:///home/ykhi/projects/noodleX
+Initialize new ts service at  /home/ykhi/projects/noodleX/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodleX
+Loaded config at  /home/ykhi/projects/noodleX/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 27
+Svelte files: 14
+From node_modules: 0
+Total: 27
+Using Svelte v3.46.2 from /home/ykhi/projects/noodleX/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodleX/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodleX/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodleX/node_modules/svelte/compiler

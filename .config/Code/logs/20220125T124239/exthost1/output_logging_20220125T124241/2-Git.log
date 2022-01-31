@@ -1,0 +1,136 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ykhi/projects/noodlecount
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/routes/signup/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/signup/index.svelte
+> git cat-file -s 39954991e31d744b4fd1c452e9162aabff25c3da
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ykhi/projects/noodlecount/src/routes/signup/index.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :svelte.config.mjs
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/svelte.config.mjs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :svelte.config.js
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/svelte.config.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/routes/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git cat-file -s 7f237ee2e635247289eb51c307a3119d78e39288
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/stores/user.ts
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/stores/user.ts
+> git cat-file -s b24f2762fb43da180e498ad7a51f574e198b056d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/routes/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git cat-file -s 7f237ee2e635247289eb51c307a3119d78e39288
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/routes/signup/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/signup/index.svelte
+> git cat-file -s 39954991e31d744b4fd1c452e9162aabff25c3da
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ykhi/projects/noodlecount/src/routes/signup/index.svelte
+> git show --textconv :tsconfig.json
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/tsconfig.json
+> git cat-file -s be441a280b61f0f7735d6c7a1094392b2ab52710
+> git show --textconv :svelte.config.js
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/svelte.config.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ykhi/projects/noodlecount/svelte.config.js
+> git show --textconv :src/routes/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git cat-file -s 7f237ee2e635247289eb51c307a3119d78e39288
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/routes/noodles/__layout.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/noodles/__layout.svelte
+> git cat-file -s 9d5468c7831cb9f7be098a8290310760f25f38c6
+> git show --textconv :src/routes/profile/contacts.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/profile/contacts.svelte
+> git cat-file -s fdcff38458e01ecec766d7716605b5e1915fff7e
+> git show --textconv :src/routes/index.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git cat-file -s 7f237ee2e635247289eb51c307a3119d78e39288
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ykhi/projects/noodlecount/src/routes/index.svelte
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/routes/profile/contacts.svelte
+> git ls-files --stage -- /home/ykhi/projects/noodlecount/src/routes/profile/contacts.svelte
+> git cat-file -s fdcff38458e01ecec766d7716605b5e1915fff7e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/login refs/remotes/login
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

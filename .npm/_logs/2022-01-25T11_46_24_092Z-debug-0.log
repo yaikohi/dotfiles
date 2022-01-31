@@ -1,0 +1,416 @@
+0 verbose cli [
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/node',
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/npm',
+0 verbose cli   'i'
+0 verbose cli ]
+1 info using npm@8.3.1
+2 info using node@v17.4.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/ykhi/projects/noodlecount/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 4ms
+11 timing config:load:file:/home/ykhi/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 13ms
+19 timing npm:load:configload Completed in 13ms
+20 timing npm:load:setTitle Completed in 1ms
+21 timing config:load:flatten Completed in 2ms
+22 timing npm:load:display Completed in 3ms
+23 verbose logfile /home/ykhi/.npm/_logs/2022-01-25T11_46_24_092Z-debug-0.log
+24 timing npm:load:logFile Completed in 4ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 22ms
+28 timing arborist:ctor Completed in 0ms
+29 silly logfile start cleaning logs, removing 1 files
+30 timing idealTree:init Completed in 140ms
+31 timing idealTree:userRequests Completed in 0ms
+32 silly idealTree buildDeps
+33 timing idealTree:#root Completed in 0ms
+34 timing idealTree:buildDeps Completed in 1ms
+35 timing idealTree:fixDepFlags Completed in 0ms
+36 timing idealTree Completed in 146ms
+37 timing arborist:ctor Completed in 0ms
+38 timing reify:loadTrees Completed in 229ms
+39 timing reify:diffTrees Completed in 7ms
+40 silly reify moves {}
+41 timing reify:retireShallow Completed in 0ms
+42 timing reify:createSparse Completed in 10ms
+43 timing reify:loadBundles Completed in 0ms
+44 silly audit bulk request {
+44 silly audit   '@babel/code-frame': [ '7.12.11' ],
+44 silly audit   '@babel/helper-validator-identifier': [ '7.16.7' ],
+44 silly audit   '@babel/highlight': [ '7.16.7' ],
+44 silly audit   'ansi-styles': [ '3.2.1', '4.3.0' ],
+44 silly audit   chalk: [ '2.4.2', '4.1.2' ],
+44 silly audit   'color-convert': [ '1.9.3', '2.0.1' ],
+44 silly audit   'color-name': [ '1.1.3', '1.1.4' ],
+44 silly audit   'escape-string-regexp': [ '1.0.5', '4.0.0' ],
+44 silly audit   'has-flag': [ '3.0.0', '4.0.0' ],
+44 silly audit   'supports-color': [ '5.5.0', '7.2.0' ],
+44 silly audit   '@eslint/eslintrc': [ '0.4.3' ],
+44 silly audit   ignore: [ '4.0.6', '5.2.0' ],
+44 silly audit   '@humanwhocodes/config-array': [ '0.5.0' ],
+44 silly audit   '@humanwhocodes/object-schema': [ '1.2.1' ],
+44 silly audit   '@iarna/toml': [ '2.2.5' ],
+44 silly audit   '@nodelib/fs.scandir': [ '2.1.5' ],
+44 silly audit   '@nodelib/fs.stat': [ '2.0.5' ],
+44 silly audit   '@nodelib/fs.walk': [ '1.2.8' ],
+44 silly audit   '@rollup/pluginutils': [ '4.1.2' ],
+44 silly audit   '@supabase/gotrue-js': [ '1.21.7' ],
+44 silly audit   '@supabase/postgrest-js': [ '0.35.1' ],
+44 silly audit   '@supabase/realtime-js': [ '1.3.4' ],
+44 silly audit   '@supabase/storage-js': [ '1.5.0' ],
+44 silly audit   '@supabase/supabase-js': [ '1.29.1' ],
+44 silly audit   '@sveltejs/adapter-auto': [ '1.0.0-next.10' ],
+44 silly audit   '@sveltejs/adapter-cloudflare': [ '1.0.0-next.7' ],
+44 silly audit   '@sveltejs/adapter-netlify': [ '1.0.0-next.38' ],
+44 silly audit   '@sveltejs/adapter-vercel': [ '1.0.0-next.36' ],
+44 silly audit   '@sveltejs/kit': [ '1.0.0-next.231' ],
+44 silly audit   '@sveltejs/vite-plugin-svelte': [ '1.0.0-next.34' ],
+44 silly audit   '@types/json-schema': [ '7.0.9' ],
+44 silly audit   '@types/node': [ '17.0.8' ],
+44 silly audit   '@types/parse-json': [ '4.0.0' ],
+44 silly audit   '@types/pug': [ '2.0.6' ],
+44 silly audit   '@types/sass': [ '1.43.1' ],
+44 silly audit   '@types/websocket': [ '1.0.4' ],
+44 silly audit   '@typescript-eslint/eslint-plugin': [ '4.33.0' ],
+44 silly audit   '@typescript-eslint/experimental-utils': [ '4.33.0' ],
+44 silly audit   'eslint-utils': [ '3.0.0', '2.1.0' ],
+44 silly audit   '@typescript-eslint/parser': [ '4.33.0' ],
+44 silly audit   '@typescript-eslint/scope-manager': [ '4.33.0' ],
+44 silly audit   '@typescript-eslint/types': [ '4.33.0' ],
+44 silly audit   '@typescript-eslint/typescript-estree': [ '4.33.0' ],
+44 silly audit   '@typescript-eslint/visitor-keys': [ '4.33.0' ],
+44 silly audit   acorn: [ '7.4.1' ],
+44 silly audit   'acorn-jsx': [ '5.3.2' ],
+44 silly audit   'acorn-node': [ '1.8.2' ],
+44 silly audit   'acorn-walk': [ '7.2.0' ],
+44 silly audit   ajv: [ '6.12.6', '8.9.0' ],
+44 silly audit   'ansi-colors': [ '4.1.1' ],
+44 silly audit   'ansi-regex': [ '5.0.1' ],
+44 silly audit   anymatch: [ '3.1.2' ],
+44 silly audit   arg: [ '5.0.1' ],
+44 silly audit   argparse: [ '1.0.10' ],
+44 silly audit   'array-union': [ '2.1.0' ],
+44 silly audit   'astral-regex': [ '2.0.0' ],
+44 silly audit   autoprefixer: [ '10.4.2' ],
+44 silly audit   'balanced-match': [ '1.0.2' ],
+44 silly audit   'binary-extensions': [ '2.2.0' ],
+44 silly audit   'brace-expansion': [ '1.1.11' ],
+44 silly audit   braces: [ '3.0.2' ],
+44 silly audit   browserslist: [ '4.19.1' ],
+44 silly audit   'buffer-crc32': [ '0.2.13' ],
+44 silly audit   bufferutil: [ '4.0.6' ],
+44 silly audit   callsites: [ '3.1.0' ],
+44 silly audit   'camelcase-css': [ '2.0.1' ],
+44 silly audit   'caniuse-lite': [ '1.0.30001299' ],
+44 silly audit   chokidar: [ '3.5.2' ],
+44 silly audit   'concat-map': [ '0.0.1' ],
+44 silly audit   cosmiconfig: [ '7.0.1' ],
+44 silly audit   'cross-fetch': [ '3.1.5' ],
+44 silly audit   'cross-spawn': [ '7.0.3' ],
+44 silly audit   cssesc: [ '3.0.0' ],
+44 silly audit   d: [ '1.0.1' ],
+44 silly audit   debug: [ '4.3.3', '2.6.9' ],
+44 silly audit   'deep-is': [ '0.1.4' ],
+44 silly audit   defined: [ '1.0.0' ],
+44 silly audit   'detect-indent': [ '6.1.0' ],
+44 silly audit   detective: [ '5.2.0' ],
+44 silly audit   didyoumean: [ '1.2.2' ],
+44 silly audit   'dir-glob': [ '3.0.1' ],
+44 silly audit   dlv: [ '1.1.3' ],
+44 silly audit   doctrine: [ '3.0.0' ],
+44 silly audit   'electron-to-chromium': [ '1.4.46' ],
+44 silly audit   'emoji-regex': [ '8.0.0' ],
+44 silly audit   enquirer: [ '2.3.6' ],
+44 silly audit   'error-ex': [ '1.3.2' ],
+44 silly audit   'es5-ext': [ '0.10.53' ],
+44 silly audit   'es6-iterator': [ '2.0.3' ],
+44 silly audit   'es6-promise': [ '3.3.1' ],
+44 silly audit   'es6-symbol': [ '3.1.3' ],
+44 silly audit   esbuild: [ '0.13.15' ],
+44 silly audit   'esbuild-android-arm64': [ '0.13.15' ],
+44 silly audit   'esbuild-darwin-64': [ '0.13.15' ],
+44 silly audit   'esbuild-darwin-arm64': [ '0.13.15' ],
+44 silly audit   'esbuild-freebsd-64': [ '0.13.15' ],
+44 silly audit   'esbuild-freebsd-arm64': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-32': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-64': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-arm': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-arm64': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-mips64le': [ '0.13.15' ],
+44 silly audit   'esbuild-linux-ppc64le': [ '0.13.15' ],
+44 silly audit   'esbuild-netbsd-64': [ '0.13.15' ],
+44 silly audit   'esbuild-openbsd-64': [ '0.13.15' ],
+44 silly audit   'esbuild-sunos-64': [ '0.13.15' ],
+44 silly audit   'esbuild-windows-32': [ '0.13.15' ],
+44 silly audit   'esbuild-windows-64': [ '0.13.15' ],
+44 silly audit   'esbuild-windows-arm64': [ '0.13.15' ],
+44 silly audit   escalade: [ '3.1.1' ],
+44 silly audit   eslint: [ '7.32.0' ],
+44 silly audit   'eslint-config-prettier': [ '8.3.0' ],
+44 silly audit   'eslint-plugin-svelte3': [ '3.4.0' ],
+44 silly audit   'eslint-scope': [ '5.1.1' ],
+44 silly audit   'eslint-visitor-keys': [ '1.3.0', '2.1.0' ],
+44 silly audit   espree: [ '7.3.1' ],
+44 silly audit   esprima: [ '4.0.1' ],
+44 silly audit   esquery: [ '1.4.0' ],
+44 silly audit   estraverse: [ '5.3.0', '4.3.0' ],
+44 silly audit   esrecurse: [ '4.3.0' ],
+44 silly audit   'estree-walker': [ '2.0.2' ],
+44 silly audit   esutils: [ '2.0.3' ],
+44 silly audit   ext: [ '1.6.0' ],
+44 silly audit   type: [ '2.5.0', '1.2.0' ],
+44 silly audit   'fast-deep-equal': [ '3.1.3' ],
+44 silly audit   'fast-glob': [ '3.2.11' ],
+44 silly audit   'fast-json-stable-stringify': [ '2.1.0' ],
+44 silly audit   'fast-levenshtein': [ '2.0.6' ],
+44 silly audit   fastq: [ '1.13.0' ],
+44 silly audit   'file-entry-cache': [ '6.0.1' ],
+44 silly audit   'fill-range': [ '7.0.1' ],
+44 silly audit   'flat-cache': [ '3.0.4' ],
+44 silly audit   flatted: [ '3.2.4' ],
+44 silly audit   'fraction.js': [ '4.1.2' ],
+44 silly audit   'fs.realpath': [ '1.0.0' ],
+44 silly audit   fsevents: [ '2.3.2' ],
+44 silly audit   'function-bind': [ '1.1.1' ],
+44 silly audit   'functional-red-black-tree': [ '1.0.1' ],
+44 silly audit   glob: [ '7.2.0' ],
+44 silly audit   'glob-parent': [ '5.1.2', '6.0.2' ],
+44 silly audit   globals: [ '13.12.0' ],
+44 silly audit   globalyzer: [ '0.1.0' ],
+44 silly audit   globby: [ '11.1.0' ],
+44 silly audit   globrex: [ '0.1.2' ],
+44 silly audit   'graceful-fs': [ '4.2.9' ],
+44 silly audit   has: [ '1.0.3' ],
+44 silly audit   'import-fresh': [ '3.3.0' ],
+44 silly audit   imurmurhash: [ '0.1.4' ],
+44 silly audit   inflight: [ '1.0.6' ],
+44 silly audit   inherits: [ '2.0.4' ],
+44 silly audit   'is-arrayish': [ '0.2.1' ],
+44 silly audit   'is-binary-path': [ '2.1.0' ],
+44 silly audit   'is-core-module': [ '2.8.1' ],
+44 silly audit   'is-extglob': [ '2.1.1' ],
+44 silly audit   'is-fullwidth-code-point': [ '3.0.0' ],
+44 silly audit   'is-glob': [ '4.0.3' ],
+44 silly audit   'is-number': [ '7.0.0' ],
+44 silly audit   'is-typedarray': [ '1.0.0' ],
+44 silly audit   isexe: [ '2.0.0' ],
+44 silly audit   'js-tokens': [ '4.0.0' ],
+44 silly audit   'js-yaml': [ '3.14.1' ],
+44 silly audit   'json-parse-even-better-errors': [ '2.3.1' ],
+44 silly audit   'json-schema-traverse': [ '0.4.1', '1.0.0' ],
+44 silly audit   'json-stable-stringify-without-jsonify': [ '1.0.1' ],
+44 silly audit   kleur: [ '4.1.4' ],
+44 silly audit   levn: [ '0.4.1' ],
+44 silly audit   lilconfig: [ '2.0.4' ],
+44 silly audit   'lines-and-columns': [ '1.2.4' ],
+44 silly audit   'lodash.merge': [ '4.6.2' ],
+44 silly audit   'lodash.truncate': [ '4.4.2' ],
+44 silly audit   'lru-cache': [ '6.0.0' ],
+44 silly audit   'magic-string': [ '0.25.7' ],
+44 silly audit   merge2: [ '1.4.1' ],
+44 silly audit   micromatch: [ '4.0.4' ],
+44 silly audit   'min-indent': [ '1.0.1' ],
+44 silly audit   minimatch: [ '3.0.4' ],
+44 silly audit   minimist: [ '1.2.5' ],
+44 silly audit   mkdirp: [ '0.5.5' ],
+44 silly audit   mri: [ '1.2.0' ],
+44 silly audit   ms: [ '2.1.2', '2.0.0' ],
+44 silly audit   nanoid: [ '3.2.0' ],
+44 silly audit   'natural-compare': [ '1.4.0' ],
+44 silly audit   'next-tick': [ '1.0.0' ],
+44 silly audit   'node-fetch': [ '2.6.7' ],
+44 silly audit   'node-gyp-build': [ '4.3.0' ],
+44 silly audit   'node-releases': [ '2.0.1' ],
+44 silly audit   'normalize-path': [ '3.0.0' ],
+44 silly audit   'normalize-range': [ '0.1.2' ],
+44 silly audit   'object-hash': [ '2.2.0' ],
+44 silly audit   once: [ '1.4.0' ],
+44 silly audit   optionator: [ '0.9.1' ],
+44 silly audit   'parent-module': [ '1.0.1' ],
+44 silly audit   'parse-json': [ '5.2.0' ],
+44 silly audit   'path-is-absolute': [ '1.0.1' ],
+44 silly audit   'path-key': [ '3.1.1' ],
+44 silly audit   'path-parse': [ '1.0.7' ],
+44 silly audit   'path-type': [ '4.0.0' ],
+44 silly audit   picocolors: [ '1.0.0' ],
+44 silly audit   picomatch: [ '2.3.1' ],
+44 silly audit   postcss: [ '8.4.5' ],
+44 silly audit   'postcss-js': [ '4.0.0' ],
+44 silly audit   'postcss-load-config': [ '3.1.1' ],
+44 silly audit   'postcss-nested': [ '5.0.6' ],
+44 silly audit   'postcss-selector-parser': [ '6.0.8' ],
+44 silly audit   'postcss-value-parser': [ '4.2.0' ],
+44 silly audit   'prelude-ls': [ '1.2.1' ],
+44 silly audit   prettier: [ '2.5.1' ],
+44 silly audit   'prettier-plugin-svelte': [ '2.6.0' ],
+44 silly audit   progress: [ '2.0.3' ],
+44 silly audit   punycode: [ '2.1.1' ],
+44 silly audit   'queue-microtask': [ '1.2.3' ],
+44 silly audit   'quick-lru': [ '5.1.1' ],
+44 silly audit   readdirp: [ '3.6.0' ],
+44 silly audit   regexpp: [ '3.2.0' ],
+44 silly audit   'require-from-string': [ '2.0.2' ],
+44 silly audit   'require-relative': [ '0.8.7' ],
+44 silly audit   resolve: [ '1.21.0' ],
+44 silly audit   'resolve-from': [ '4.0.0' ],
+44 silly audit   reusify: [ '1.0.4' ],
+44 silly audit   rimraf: [ '3.0.2', '2.7.1' ],
+44 silly audit   rollup: [ '2.64.0' ],
+44 silly audit   'run-parallel': [ '1.2.0' ],
+44 silly audit   sade: [ '1.8.1' ],
+44 silly audit   sander: [ '0.5.1' ],
+44 silly audit   semver: [ '7.3.5' ],
+44 silly audit   'shebang-command': [ '2.0.0' ],
+44 silly audit   'shebang-regex': [ '3.0.0' ],
+44 silly audit   slash: [ '3.0.0' ],
+44 silly audit   'slice-ansi': [ '4.0.0' ],
+44 silly audit   sorcery: [ '0.10.0' ],
+44 silly audit   'source-map': [ '0.7.3' ],
+44 silly audit   'source-map-js': [ '1.0.1' ],
+44 silly audit   'sourcemap-codec': [ '1.4.8' ],
+44 silly audit   'sprintf-js': [ '1.0.3' ],
+44 silly audit   'string-width': [ '4.2.3' ],
+44 silly audit   'strip-ansi': [ '6.0.1' ],
+44 silly audit   'strip-indent': [ '3.0.0' ],
+44 silly audit   'strip-json-comments': [ '3.1.1' ],
+44 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+44 silly audit   svelte: [ '3.46.2' ],
+44 silly audit   'svelte-check': [ '2.3.0' ],
+44 silly audit   'svelte-hmr': [ '0.14.9' ],
+44 silly audit   'svelte-preprocess': [ '4.10.1' ],
+44 silly audit   table: [ '6.8.0' ],
+44 silly audit   tailwindcss: [ '3.0.15' ],
+44 silly audit   'text-table': [ '0.2.0' ],
+44 silly audit   'tiny-glob': [ '0.2.9' ],
+44 silly audit   'to-regex-range': [ '5.0.1' ],
+44 silly audit   tr46: [ '0.0.3' ],
+44 silly audit   tslib: [ '2.3.1', '1.14.1' ],
+44 silly audit   tsutils: [ '3.21.0' ],
+44 silly audit   'type-check': [ '0.4.0' ],
+44 silly audit   'type-fest': [ '0.20.2' ],
+44 silly audit   'typedarray-to-buffer': [ '3.1.5' ],
+44 silly audit   typescript: [ '4.5.4' ],
+44 silly audit   'uri-js': [ '4.4.1' ],
+44 silly audit   'utf-8-validate': [ '5.0.8' ],
+44 silly audit   'util-deprecate': [ '1.0.2' ],
+44 silly audit   'v8-compile-cache': [ '2.3.0' ],
+44 silly audit   vite: [ '2.7.12' ],
+44 silly audit   'webidl-conversions': [ '3.0.1' ],
+44 silly audit   websocket: [ '1.0.34' ],
+44 silly audit   'whatwg-url': [ '5.0.0' ],
+44 silly audit   which: [ '2.0.2' ],
+44 silly audit   'word-wrap': [ '1.2.3' ],
+44 silly audit   wrappy: [ '1.0.2' ],
+44 silly audit   xtend: [ '4.0.2' ],
+44 silly audit   yaeti: [ '0.0.6' ],
+44 silly audit   yallist: [ '4.0.0' ],
+44 silly audit   yaml: [ '1.10.2' ]
+44 silly audit }
+45 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/fsevents
+46 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/fsevents' ]
+47 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-windows-arm64
+48 silly reify mark deleted [
+48 silly reify   '/home/ykhi/projects/noodlecount/node_modules/esbuild-windows-arm64'
+48 silly reify ]
+49 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-windows-64
+50 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-windows-64' ]
+51 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-windows-32
+52 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-windows-32' ]
+53 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-sunos-64
+54 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-sunos-64' ]
+55 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-openbsd-64
+56 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-openbsd-64' ]
+57 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-netbsd-64
+58 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-netbsd-64' ]
+59 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-linux-ppc64le
+60 silly reify mark deleted [
+60 silly reify   '/home/ykhi/projects/noodlecount/node_modules/esbuild-linux-ppc64le'
+60 silly reify ]
+61 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-linux-mips64le
+62 silly reify mark deleted [
+62 silly reify   '/home/ykhi/projects/noodlecount/node_modules/esbuild-linux-mips64le'
+62 silly reify ]
+63 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-linux-arm64
+64 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-linux-arm64' ]
+65 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-linux-arm
+66 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-linux-arm' ]
+67 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-linux-32
+68 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-linux-32' ]
+69 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-freebsd-arm64
+70 silly reify mark deleted [
+70 silly reify   '/home/ykhi/projects/noodlecount/node_modules/esbuild-freebsd-arm64'
+70 silly reify ]
+71 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-freebsd-64
+72 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-freebsd-64' ]
+73 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-darwin-arm64
+74 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-darwin-arm64' ]
+75 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-darwin-64
+76 silly reify mark deleted [ '/home/ykhi/projects/noodlecount/node_modules/esbuild-darwin-64' ]
+77 verbose reify failed optional dependency /home/ykhi/projects/noodlecount/node_modules/esbuild-android-arm64
+78 silly reify mark deleted [
+78 silly reify   '/home/ykhi/projects/noodlecount/node_modules/esbuild-android-arm64'
+78 silly reify ]
+79 timing reifyNode:node_modules/fsevents Completed in 44ms
+80 timing reifyNode:node_modules/esbuild-windows-arm64 Completed in 45ms
+81 timing reifyNode:node_modules/esbuild-windows-64 Completed in 45ms
+82 timing reifyNode:node_modules/esbuild-windows-32 Completed in 45ms
+83 timing reifyNode:node_modules/esbuild-sunos-64 Completed in 44ms
+84 timing reifyNode:node_modules/esbuild-openbsd-64 Completed in 44ms
+85 timing reifyNode:node_modules/esbuild-netbsd-64 Completed in 44ms
+86 timing reifyNode:node_modules/esbuild-linux-ppc64le Completed in 44ms
+87 timing reifyNode:node_modules/esbuild-linux-mips64le Completed in 44ms
+88 timing reifyNode:node_modules/esbuild-linux-arm64 Completed in 44ms
+89 timing reifyNode:node_modules/esbuild-linux-arm Completed in 44ms
+90 timing reifyNode:node_modules/esbuild-linux-32 Completed in 44ms
+91 timing reifyNode:node_modules/esbuild-freebsd-arm64 Completed in 44ms
+92 timing reifyNode:node_modules/esbuild-freebsd-64 Completed in 44ms
+93 timing reifyNode:node_modules/esbuild-darwin-arm64 Completed in 43ms
+94 timing reifyNode:node_modules/esbuild-darwin-64 Completed in 43ms
+95 timing reifyNode:node_modules/esbuild-android-arm64 Completed in 43ms
+96 timing reify:unpack Completed in 45ms
+97 timing reify:unretire Completed in 1ms
+98 timing build:queue Completed in 6ms
+99 timing build:deps Completed in 7ms
+100 timing build Completed in 7ms
+101 timing reify:build Completed in 8ms
+102 timing reify:trash Completed in 5ms
+103 timing reify:save Completed in 33ms
+104 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 481ms
+105 timing auditReport:getReport Completed in 487ms
+106 silly audit report {}
+107 timing auditReport:init Completed in 0ms
+108 timing reify:audit Completed in 488ms
+109 timing reify Completed in 749ms
+110 silly ADD
+111 silly ADD
+112 silly ADD
+113 silly ADD
+114 silly ADD
+115 silly ADD
+116 silly ADD
+117 silly ADD
+118 silly ADD
+119 silly ADD
+120 silly ADD
+121 silly ADD
+122 silly ADD
+123 silly ADD
+124 silly ADD
+125 silly ADD
+126 silly ADD
+127 timing command:i Completed in 768ms
+128 verbose exit 0
+129 timing npm Completed in 967ms
+130 info ok

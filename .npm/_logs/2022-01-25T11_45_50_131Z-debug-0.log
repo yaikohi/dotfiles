@@ -1,0 +1,38 @@
+0 verbose cli [
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/node',
+0 verbose cli   '/home/ykhi/.local/share/nvm/v17.4.0/bin/npm',
+0 verbose cli   'run',
+0 verbose cli   'dev'
+0 verbose cli ]
+1 info using npm@8.3.1
+2 info using node@v17.4.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/ykhi/projects/noodlecount/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 5ms
+11 timing config:load:file:/home/ykhi/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/home/ykhi/.local/share/nvm/v17.4.0/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 1ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 13ms
+19 timing npm:load:configload Completed in 14ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing config:load:flatten Completed in 3ms
+22 timing npm:load:display Completed in 4ms
+23 verbose logfile /home/ykhi/.npm/_logs/2022-01-25T11_45_50_131Z-debug-0.log
+24 timing npm:load:logFile Completed in 4ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 22ms
+28 silly logfile start cleaning logs, removing 1 files
+29 timing command:run Completed in 483ms
+30 verbose exit 1
+31 timing npm Completed in 604ms
+32 verbose code 1

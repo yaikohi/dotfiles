@@ -1,0 +1,30 @@
+Initialize language server at  file:///home/ykhi/projects/noodlecount
+Initialize new ts service at  /home/ykhi/projects/noodlecount/tsconfig.json
+Trying to load configs for /home/ykhi/projects/noodlecount
+Loaded config at  /home/ykhi/projects/noodlecount/svelte.config.mjs
+SnapshotManager File Statistics:
+Project files: 25
+Svelte files: 15
+From node_modules: 0
+Total: 25
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+TypeError: Cannot read property 'getProjectVersion' of undefined
+    at synchronizeHostData (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/typescript/lib/typescript.js:160387:22)
+    at Object.getSyntacticDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/typescript/lib/typescript.js:160624:13)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:50:21)
+    at async PluginHost.tryExecutePlugin (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:258:20)
+    at async Promise.all (index 2)
+    at async PluginHost.getDiagnostics (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:45:38)
+    at async DiagnosticsManager.update (/home/ykhi/.vscode/extensions/svelte.svelte-vscode-105.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:16:29)
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/ykhi/projects/noodlecount/node_modules/svelte/compiler
+Using Prettier v2.5.1 from /home/ykhi/projects/noodlecount/node_modules/prettier

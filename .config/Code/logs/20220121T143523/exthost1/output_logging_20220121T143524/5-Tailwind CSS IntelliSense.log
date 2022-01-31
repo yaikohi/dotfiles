@@ -1,0 +1,13 @@
+Found Tailwind CSS config file: /home/ykhi/projects/noodleX/tailwind.config.cjs
+Failed to load workspace modules.
+Using bundled version of `tailwindcss`: v3.0.11
+Using bundled version of `postcss`: v8.3.9
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.
+Found Tailwind CSS config file: /home/ykhi/projects/noodleX/tailwind.config.cjs
+Loaded postcss v8.4.5: /home/ykhi/projects/noodleX/node_modules/postcss
+Loaded tailwindcss v3.0.15: /home/ykhi/projects/noodleX/node_modules/tailwindcss
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.

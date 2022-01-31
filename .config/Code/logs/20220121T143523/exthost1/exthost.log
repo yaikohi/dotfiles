@@ -1,0 +1,50 @@
+[2022-01-21 14:35:24.625] [exthost] [info] Extension host with pid 17151 started
+[2022-01-21 14:35:24.625] [exthost] [info] Skipping acquiring lock for /home/ykhi/.config/Code/User/workspaceStorage/eb2a82dcd9b7e21d00f769395250a847.
+[2022-01-21 14:35:24.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-21 14:35:24.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-21 14:35:24.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-21 14:35:24.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-01-21 14:35:24.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-21 14:35:24.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-21 14:35:24.772] [exthost] [info] Eager extensions activated
+[2022-01-21 14:35:24.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:35:24.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:35:25.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-21 14:35:25.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-21 14:35:25.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-21 14:35:26.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-01-21 14:35:26.995] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:35:27.001] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2022-01-21 14:35:39.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-21 14:35:47.827] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2022-01-21 14:35:47.827] [exthost] [error] Canceled: Canceled
+	at b.makeCancelError (/snap/code/85/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:492472)
+	at b.handleFailedRequest (/snap/code/85/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:492323)
+	at /snap/code/85/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:452538
+	at async o.provideHover (/snap/code/85/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2022-01-21 14:36:28.260] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+[2022-01-21 14:36:36.653] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-21 14:36:36.675] [exthost] [info] Extension host with pid 17151 exiting with code 0
+[2022-01-21 14:36:38.432] [exthost] [info] Extension host with pid 17523 started
+[2022-01-21 14:36:38.432] [exthost] [info] Skipping acquiring lock for /home/ykhi/.config/Code/User/workspaceStorage/eb2a82dcd9b7e21d00f769395250a847.
+[2022-01-21 14:36:38.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-21 14:36:38.542] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+[2022-01-21 14:36:38.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-21 14:36:38.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-21 14:36:38.661] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-01-21 14:36:38.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-01-21 14:36:38.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-21 14:36:38.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-21 14:36:39.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-21 14:36:39.024] [exthost] [info] Eager extensions activated
+[2022-01-21 14:36:39.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:36:39.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:36:39.075] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-21 14:41:33.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-01-21 14:42:48.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-21 14:56:07.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-21 14:56:07.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-21 15:04:31.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-21 15:06:43.285] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8281
+[2022-01-21 15:07:02.128] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-21 15:07:02.163] [exthost] [info] Extension host with pid 17523 exiting with code 0
